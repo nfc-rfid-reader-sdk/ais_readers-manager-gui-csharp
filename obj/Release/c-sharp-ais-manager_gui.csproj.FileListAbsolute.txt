@@ -1,0 +1,10 @@
+C:\Users\Projekat\Desktop\VS_C#_Projects\c-sharp-ais-manager_gui\c-sharp-ais-manager_gui\bin\Release\c-sharp-ais-manager_gui.exe.config
+C:\Users\Projekat\Desktop\VS_C#_Projects\c-sharp-ais-manager_gui\c-sharp-ais-manager_gui\bin\Release\c-sharp-ais-manager_gui.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\c-sharp-ais-manager_gui\c-sharp-ais-manager_gui\bin\Release\c-sharp-ais-manager_gui.pdb
+C:\Users\Projekat\Desktop\VS_C#_Projects\c-sharp-ais-manager_gui\c-sharp-ais-manager_gui\obj\Release\c-sharp-ais-manager_gui.csprojAssemblyReference.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\c-sharp-ais-manager_gui\c-sharp-ais-manager_gui\obj\Release\c_sharp_ais_manager_gui.Form1.resources
+C:\Users\Projekat\Desktop\VS_C#_Projects\c-sharp-ais-manager_gui\c-sharp-ais-manager_gui\obj\Release\c_sharp_ais_manager_gui.Properties.Resources.resources
+C:\Users\Projekat\Desktop\VS_C#_Projects\c-sharp-ais-manager_gui\c-sharp-ais-manager_gui\obj\Release\c-sharp-ais-manager_gui.csproj.GenerateResource.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\c-sharp-ais-manager_gui\c-sharp-ais-manager_gui\obj\Release\c-sharp-ais-manager_gui.csproj.CoreCompileInputs.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\c-sharp-ais-manager_gui\c-sharp-ais-manager_gui\obj\Release\c-sharp-ais-manager_gui.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\c-sharp-ais-manager_gui\c-sharp-ais-manager_gui\obj\Release\c-sharp-ais-manager_gui.pdb

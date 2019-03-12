@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-ais-manager_gui", "c-sharp-ais-manager_gui\c-sharp-ais-manager_gui.csproj", "{4B6145D1-5514-4D93-AE67-F11B272ED814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-sharp-ais-manager", "..\C-sharp-ais-manager\C-sharp-ais-manager\C-sharp-ais-manager.csproj", "{0D0D88BB-AFE9-4FE5-B6EF-9A3DE17802C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B6145D1-5514-4D93-AE67-F11B272ED814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6145D1-5514-4D93-AE67-F11B272ED814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6145D1-5514-4D93-AE67-F11B272ED814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6145D1-5514-4D93-AE67-F11B272ED814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0D88BB-AFE9-4FE5-B6EF-9A3DE17802C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0D88BB-AFE9-4FE5-B6EF-9A3DE17802C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0D88BB-AFE9-4FE5-B6EF-9A3DE17802C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0D88BB-AFE9-4FE5-B6EF-9A3DE17802C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CF9EC44-19A5-4382-9528-A00FFB930117}
+	EndGlobalSection
+EndGlobal
