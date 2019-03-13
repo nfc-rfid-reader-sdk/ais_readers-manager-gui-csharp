@@ -1,0 +1,27 @@
+========================================
+Debug file created time:
+3/12/2019 10:13:00 AM
+========================================
+Checking settings.ini...
+Checking readers.ini...
+number of devices: 0
+ +------------------------------------------------+
+ |          Ais Readers app (version : 1.0)       |
+ |       AIS READERS library version= 4.15.8      |
+ +------------------------------------------------+
+                              For exit, hit escape.
+ --------------------------------------------------
+  (1) - Read whitelist from database
+  (2) - Read blacklist from database
+  (3) - Get logs
+  (4) - Read whitelist from reader
+  (5) - Read blacklist from reader
+  (6) - Send all logs to database
+  (7) - Set time to devices
+  (8) - Get time from devices
+  (I) - Get logs by index
+  (T) - Get logs by time
+
+=================================================================================================================================================================
+   Log index  |          Log action            |  Reader ID  | Card ID | System ID |       UID          | UID length |                  Time               |Type|
+=================================================================================================================================================================

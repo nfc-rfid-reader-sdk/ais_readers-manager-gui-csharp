@@ -1,0 +1,3 @@
+[submodule "ais_readers-lib"]
+	path = lib
+	url = https://git.d-logic.net/nfc-rfid-reader-sdk/ais_readers-lib.git

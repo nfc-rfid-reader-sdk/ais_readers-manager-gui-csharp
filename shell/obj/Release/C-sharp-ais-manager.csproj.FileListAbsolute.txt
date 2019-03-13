@@ -1,0 +1,7 @@
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-ais-manager\C-sharp-ais-manager\obj\Release\C-sharp-ais-manager.csproj.CoreCompileInputs.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-ais-manager\C-sharp-ais-manager\bin\Release\C-sharp-ais-manager.exe.config
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-ais-manager\C-sharp-ais-manager\bin\Release\C-sharp-ais-manager.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-ais-manager\C-sharp-ais-manager\bin\Release\C-sharp-ais-manager.pdb
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-ais-manager\C-sharp-ais-manager\obj\Release\C-sharp-ais-manager.csprojAssemblyReference.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-ais-manager\C-sharp-ais-manager\obj\Release\C-sharp-ais-manager.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\C-sharp-ais-manager\C-sharp-ais-manager\obj\Release\C-sharp-ais-manager.pdb
